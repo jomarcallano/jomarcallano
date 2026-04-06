@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:141321,100:1a1b2e&height=150&section=header&text=JomarRey%20Callano&fontSize=48&fontColor=70a5fd&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Web%20Developer&descAlignY=65&descSize=18&descColor=a9b1d6" />
 
-[![Visitors](https://komarev.com/ghpvc/?username=xtomas2077-arch&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/xtomas2077-arch)
+[![Visitors](https://komarev.com/ghpvc/?username=jomarcallano&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/jomarcallano)
 
 </div>
 
@@ -16,18 +16,17 @@
 <table>
 <tr><td>🏷️ <b>Experience</b></td><td>2+ Years in Web Development</td></tr>
 <tr><td>📍 <b>Location</b></td><td>Cabadbaran, Philippines</td></tr>
-<tr><td>🔭 <b>Working on</b></td><td><a href="#">Your Current Project</a></td></tr>
-<tr><td>📫 <b>Contact</b></td><td><a href="mailto:zomarcallano.official@gmail.com">zomarcallano.official@gmail.com</a></td></tr>
+<tr><td>🔭 <b>Working on</b></td><td><a href="#">Job Listing Project (Personal)</a></td></tr>
+<tr><td>📫 <b>Contact</b></td><td><a href="mailto:hello@xn.fo">hello@xn.fo</a></td></tr>
 </table>
 
 <br/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=flat-square&logo=safari&logoColor=70a5fd)](https://yourwebsite.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=flat-square&logo=safari&logoColor=70a5fd)](https://2077.me)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin&logoColor=70a5fd)](https://linkedin.com/in/jomarcallano)&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail&logoColor=70a5fd)](mailto:zomarcallano.official@gmail.com)&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-111?style=flat-square&logo=whatsapp&logoColor=70a5fd)](https://wa.me/YOUR_PHONE_NUMBER)&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail&logoColor=70a5fd)](mailto:hello@xn.fo)&nbsp;
 [![Upwork](https://img.shields.io/badge/Upwork-111?style=flat-square&logo=upwork&logoColor=70a5fd)](https://upwork.com/freelancers/YOUR_PROFILE)
 
 </div>
@@ -76,27 +75,30 @@
 | ⚡ | **Performance Optimization** | Speed audits & Core Web Vitals improvements |
 
 ---
+<!--
 
 ### Featured Projects
 
 <div align="center">
 
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=xtomas2077-arch&repo=YOUR_REPO_1&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/xtomas2077-arch/YOUR_REPO_1)
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=xtomas2077-arch&repo=YOUR_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/xtomas2077-arch/YOUR_REPO_2)
+[![Project](https://github-readme-stats.vercel.app/api/pin/?username=jomarcallano&repo=YOUR_REPO_1&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/jomarcallano/YOUR_REPO_1)
+[![Project](https://github-readme-stats.vercel.app/api/pin/?username=jomarcallano&repo=YOUR_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/jomarcallano/YOUR_REPO_2)
 
 </div>
 
 ---
+-->
 
 ### Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=xtomas2077-arch&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=70a5fd&title_color=70a5fd&text_color=a9b1d6&count_private=true"/>
+<!--
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jomarcallano&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=70a5fd&title_color=70a5fd&text_color=a9b1d6&count_private=true"/>
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtomas2077-arch&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomarcallano&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6"/>
+-->
 
-[![Streak](https://streak-stats.demolab.com/?user=xtomas2077-arch&theme=github-dark-blue&hide_border=true&background=0d1117&ring=70a5fd&fire=70a5fd&currStreakLabel=a9b1d6)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=jomarcallano&theme=github-dark-blue&hide_border=true&background=0d1117&ring=70a5fd&fire=70a5fd&currStreakLabel=a9b1d6)](https://git.io/streak-stats)
 
 </div>
 
@@ -106,7 +108,7 @@
 
 *"Clean code always looks like it was written by someone who cares."*
 
-**[Let's work together →](mailto:zomarcallano.official@gmail.com)**
+**[Let's work together →](mailto:hello@xn.fo)**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:141321,100:1a1b2e&height=80&section=footer"/>
 
