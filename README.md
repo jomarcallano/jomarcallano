@@ -27,7 +27,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-111?style=flat-square&logo=safari&logoColor=70a5fd)](https://2077.me)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin&logoColor=70a5fd)](https://linkedin.com/in/jomarcallano)&nbsp;
 [![Gmail](https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail&logoColor=70a5fd)](mailto:hello@xn.fo)&nbsp;
-[![Upwork](https://img.shields.io/badge/Upwork-111?style=flat-square&logo=upwork&logoColor=70a5fd)](https://upwork.com/freelancers/YOUR_PROFILE)
+[![Upwork](https://img.shields.io/badge/Upwork-111?style=flat-square&logo=upwork&logoColor=70a5fd)](https://www.upwork.com/freelancers/jomarcallano)
 
 </div>
 
