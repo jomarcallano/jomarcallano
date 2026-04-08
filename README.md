@@ -14,7 +14,7 @@
 <br/>
 
 <table>
-<tr><td>🏷️ <b>Experience</b></td><td>2+ Years in Web Development</td></tr>
+<tr><td>🏷️ <b>Experience</b></td><td>5+ Years in Web Development</td></tr>
 <tr><td>📍 <b>Location</b></td><td>Cabadbaran, Philippines</td></tr>
 <tr><td>🔭 <b>Working on</b></td><td><a href="#">Job Listing Project (Personal)</a></td></tr>
 <tr><td>📫 <b>Contact</b></td><td><a href="mailto:hello@xn.fo">hello@xn.fo</a></td></tr>
