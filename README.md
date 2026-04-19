@@ -15,7 +15,7 @@
 
 <table>
 <tr><td>🏷️ <b>Experience</b></td><td>3+ Years in Web Development</td></tr>
-<tr><td>📍 <b>Location</b></td><td>Cabadbaran, Philippines</td></tr>
+<tr><td>📍 <b>Location</b></td><td>Mindanao, Philippines</td></tr>
 <tr><td>🔭 <b>Working on</b></td><td><a href="#">Job Listing Project (Personal)</a></td></tr>
 <tr><td>📫 <b>Contact</b></td><td><a href="mailto:dev@zomar.dev">dev@zomar.dev</a></td></tr>
 </table>
@@ -108,7 +108,7 @@
 
 *"Clean code always looks like it was written by someone who cares."*
 
-**[Let's work together →](mailto:hello@xn.fo)**
+**[Let's work together →](mailto:dev@zomar.dev)**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:141321,100:1a1b2e&height=80&section=footer"/>
 
