@@ -14,19 +14,19 @@
 <br/>
 
 <table>
-<tr><td>🏷️ <b>Experience</b></td><td>5+ Years in Web Development</td></tr>
+<tr><td>🏷️ <b>Experience</b></td><td>3+ Years in Web Development</td></tr>
 <tr><td>📍 <b>Location</b></td><td>Cabadbaran, Philippines</td></tr>
 <tr><td>🔭 <b>Working on</b></td><td><a href="#">Job Listing Project (Personal)</a></td></tr>
-<tr><td>📫 <b>Contact</b></td><td><a href="mailto:hello@xn.fo">hello@xn.fo</a></td></tr>
+<tr><td>📫 <b>Contact</b></td><td><a href="mailto:dev@zomar.dev">dev@zomar.dev</a></td></tr>
 </table>
 
 <br/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=flat-square&logo=safari&logoColor=70a5fd)](https://2077.me)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=flat-square&logo=safari&logoColor=70a5fd)](https://zomar.dev)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin&logoColor=70a5fd)](https://linkedin.com/in/jomarcallano)&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail&logoColor=70a5fd)](mailto:hello@xn.fo)&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail&logoColor=70a5fd)](mailto:dev@zomar.dec)&nbsp;
 [![Upwork](https://img.shields.io/badge/Upwork-111?style=flat-square&logo=upwork&logoColor=70a5fd)](https://www.upwork.com/freelancers/jomarcallano)
 
 </div>
